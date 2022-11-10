@@ -1,1 +1,1 @@
-## Image Classification using python ANN
+## Image Classification by using ANN (Artificial Neural Network) 
